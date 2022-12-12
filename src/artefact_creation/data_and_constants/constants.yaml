@@ -1,0 +1,23 @@
+earth_radius_in_km: 6371
+
+area_bounds:
+  long_min:  -0.236313
+  long_max:  0.005536
+  lat_min:  51.451
+  lat_max:  51.560
+
+area_scales:
+  lat: 12127.115295910631
+  long: 16812.114800647625
+
+satellite_data:
+  mean: 0
+  stdev: 1612.2448979591836
+
+river_data:
+  mean: 0
+  stdev: 1392.857142857143
+
+b_o_e_data:
+  mean: 8.38865240135586
+  stdev: 0.3898295507569983
